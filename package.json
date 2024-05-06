@@ -1,7 +1,6 @@
 {
   "name": "movie",
   "version": "0.1.0",
-  "homepage": "https://youssefelaalem.github.io/moviesApp",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
