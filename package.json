@@ -1,6 +1,7 @@
 {
   "name": "movie",
   "version": "0.1.0",
+  "homepage": "https://github.com/youssefelaalem/moviesApp",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
@@ -29,7 +30,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/youssefelaalem/moviesApp"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
