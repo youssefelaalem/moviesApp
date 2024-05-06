@@ -12,7 +12,7 @@ function App() {
   // console.log(withRouter);
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="https://youssefelaalem.github.io/moviesApp/">
         <Header />
         <div className="container">
         <Routes>
