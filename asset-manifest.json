@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/youssefelaalem/moviesApp/static/css/main.682ee68c.css",
-    "main.js": "/youssefelaalem/moviesApp/static/js/main.c8f116ff.js",
-    "index.html": "/youssefelaalem/moviesApp/index.html",
-    "main.682ee68c.css.map": "/youssefelaalem/moviesApp/static/css/main.682ee68c.css.map",
-    "main.c8f116ff.js.map": "/youssefelaalem/moviesApp/static/js/main.c8f116ff.js.map"
+    "main.css": "/moviesApp/static/css/main.682ee68c.css",
+    "main.js": "/moviesApp/static/js/main.c8f116ff.js",
+    "index.html": "/moviesApp/index.html",
+    "main.682ee68c.css.map": "/moviesApp/static/css/main.682ee68c.css.map",
+    "main.c8f116ff.js.map": "/moviesApp/static/js/main.c8f116ff.js.map"
   },
   "entrypoints": [
     "static/css/main.682ee68c.css",
